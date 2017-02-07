@@ -1,0 +1,33 @@
+#home { background: url(../../img/bgPicture/bg_g1.jpg) 50% no-repeat;}
+#practice { background: url(../../img/bgPicture/bg_g2.jpg) 50% no-repeat;}
+#job { background: url(../../img/bgPicture/bg_g3.jpg) 50% no-repeat;}
+#skill { background: url(../../img/bgPicture/bg_g4.jpg) 50% no-repeat;}
+#education { background: url(../../img/bgPicture/bg_g5.jpg) 50% no-repeat;}
+#contact { background: url(../../img/bgPicture/bg_g6.jpg) 50% no-repeat;}
+
+#favicon {
+    border: 10px solid #79cc97;
+}
+.section h1,h2{
+    text-shadow: 1px 2px #148f36, 2px 4px #d3ffcd;
+}
+.section h4 a{
+    color: #00ff23;
+}
+.section p{
+    color: #c8ffb3;
+}
+.tag {
+    background-color: #1ec34c;
+    color: #d4fece;
+}
+#practice ul li a{
+    color: #00ff23;
+}
+#contact h5 a{
+    color: #7a9a7f;
+}
+#contact a:hover{
+    color:#63f071;
+    text-shadow: 0 0 .08em #fff;
+}

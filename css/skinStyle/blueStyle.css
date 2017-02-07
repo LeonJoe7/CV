@@ -1,0 +1,28 @@
+#home { background: url(../../img/bgPicture/bg_b1.jpg) 50% no-repeat;}
+#practice { background: url(../../img/bgPicture/bg_b2.jpg) 50% no-repeat;}
+#job { background: url(../../img/bgPicture/bg_b3.jpg) 50% no-repeat;}
+#skill { background: url(../../img/bgPicture/bg_b4.jpg) 50% no-repeat;}
+#education { background: url(../../img/bgPicture/bg_b5.jpg) 50% no-repeat;}
+#contact { background: url(../../img/bgPicture/bg_b6.jpg) 50% no-repeat;}
+
+#favicon {
+    border: 10px solid #77a9ea;
+}
+.section h1,h2{
+    text-shadow: 1px 2px #2c2e8f, 2px 4px #cad4ff;
+}
+.section h4 a{
+    color: #35dcf0;
+}
+.section p{
+    color:#8bbae9;
+}
+#practice ul li a{
+    color: #acc4ff;
+}
+.tag {
+    background-color: #0988ba;
+    color: #b8e6f3;
+}
+
+/*#home,#job,#practice,#skill,#education,#contact { background: #0075ea;}*/
